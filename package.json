@@ -1,0 +1,8 @@
+{
+    "name": "file-explorer"
+  , "version": "0.0.1"
+  , "description":"A tools",
+    "dependencies":{
+        "colors":"0.0.1"
+    }
+}
